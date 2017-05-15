@@ -1,3 +1,2 @@
-ToolSet: 5.0@C:\MinGW
 Options: 
-CMake: 3.7.1@F:\CLion\CLion 2017.1.1\bin\cmake\bin\cmake.exe
+CMake: 3.7.1@/home/krzysztof-c/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/171.4073.41/bin/cmake/bin/cmake
